@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+#btnMe {
+    color: #000;
+    font-weight: bold;
+    background-color: transparent;
+    border: 2px solid #000;
+}
+
+a:-webkit-any-link {
+    color: cadetblue;
+    cursor: pointer;
+    text-decoration: none;
+}
